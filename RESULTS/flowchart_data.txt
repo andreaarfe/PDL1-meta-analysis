@@ -1,0 +1,20 @@
+[1] "Flowchart data"
+    N
+1 363
+2   1
+3 288
+4  24
+5  34
+6   1
+7  15
+                                                                                                                 Reason
+1                                                   # Number of identified abstracts published before November 31, 2018
+2                                                                  # Criteria 1: manuscript unaccessible by the authors
+3 # Criteria 2: not randomized phase II or III studies of PD-1/L1 inihibitors in adults (≥18 years) with solid tumors
+4                       # Criteria 3: did not compare a PD-1/L1 inhibitor in monotherapy to a standard cytotoxic agent)
+5                  # Criteria 4: did not report Kaplan-Meier curves for overall survival stratified by PD-L1 expression
+6                                                        # Criteria 5: reported data available from another publication
+7                                                                                     # Final number of included trials
+[1] "PUBMED ID of included trials"
+ [1] 30262187 30052729 29884413 29880231 29658856 29268948 28993052 28212060
+ [9] 27979383 26970723 26712084 26412456 26406148 26028407 25399552

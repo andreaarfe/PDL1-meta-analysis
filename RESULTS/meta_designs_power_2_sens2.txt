@@ -1,0 +1,2 @@
+naive_some  meta_some  naive_all   meta_all 
+    0.8385     0.9353     0.1843     0.5464 
